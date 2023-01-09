@@ -13,5 +13,6 @@ Terraform code can be used to created Datadog syncthetic test to monitor any pub
             slack_channel_name = var.slack_channel_name
             tags = var.tags
         }
-        
+
 ```
+
